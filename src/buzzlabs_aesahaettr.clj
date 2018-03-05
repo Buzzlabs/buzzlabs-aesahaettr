@@ -1,4 +1,4 @@
-(ns æsahættr
+(ns buzzlabs-aesahaettr
   "Provides functions for consistent hashing and partitioning of data." 
   (:refer-clojure :exclude [hash chunk])
   (:require [taoensso.nippy :as nippy])
